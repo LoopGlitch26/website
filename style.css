@@ -44,3 +44,10 @@ h2{
 #members .card{
   background-color: #E5E4E2;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
